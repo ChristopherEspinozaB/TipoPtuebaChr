@@ -1,5 +1,5 @@
 .bg-body-tertiary {
-    background-color: #ffcc00 !important;
+    background-color: #e5ff00 !important;
 }
 
 .LibrosContenedor{
@@ -34,7 +34,7 @@ html, body {
 footer {
   text-align: center;
   margin-top: 180px;
-  background-color: #ffcc00;
+  background-color: #e5ff00;
   color: white;
   font-size: 14px;
 }
